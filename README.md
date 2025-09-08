@@ -1,5 +1,5 @@
 # Hi, I’m Kinga Hutorowicz 👋  
-**`Cybersecurity Student | Aspiring Penetration Tester, Reverse Engineer & Malware Analyst 🔐`**
+**`Cybersecurity Student | Aspiring Penetration Tester, Reverse Engineer or Malware Analyst 🔐`**
 
 ---
 
