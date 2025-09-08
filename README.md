@@ -19,10 +19,12 @@ I am a dedicated cybersecurity student with strong interests and skills in penet
 
 ## Certifications & Training 🎓  
 
-![Digital Skills](https://img.shields.io/badge/Digital_Skills-Google-blue?style=flat-square&logo=google)  
-![Project Management](https://img.shields.io/badge/Project_Management-Social_Wolves-blueviolet?style=flat-square)  
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-Official-red?style=flat-square&logo=cisco)  
-![Cisco Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-Cisco-orange?style=flat-square)  
+I have completed professional courses and certifications that have helped me develop essential skills:  
+
+- **Digital Skills Course (Google & Social Wolves):** Gained expertise in expanding audience reach, maintaining online presence, analyzing digital data, and utilizing marketing tools effectively.  
+- **Project Management Principles (Social Wolves & PMI):** Developed strong foundation in building teams, planning projects, managing resources, scheduling, budgeting, and breaking down complex work structures.  
+- **Cisco CCNA (In Progress):** Currently honing networking fundamentals, routing, switching, and security concepts to boost my technical proficiency.  
+- **Cisco Ethical Hacker (In Progress):** Building skills in penetration testing, vulnerability assessment, and ethical hacking techniques for cybersecurity defense.
 
 Currently enrolled in:  
 - Cisco CCNA Course  
